@@ -3,6 +3,6 @@ function sayHello(name) {
   return greeting;
 }
 
-const helloChris = sayHello("Chris Wood");
+const helloChris = sayHello("Chris Robert");
 
 console.log(helloChris);
